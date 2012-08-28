@@ -54,7 +54,7 @@ vjo.otype('org.dojotoolkit.DojoAuxiliary') //< public
 	
 	CSS2Properties : {
 		background: null, //<Object?
-		'background-attachment': null, //<Object?
+		'background-attachment': null, //<Object?;
 		'background-color': null, //<Object?
 		'background-image': null, //<Object?
 		'background-position': null, //<Object?
