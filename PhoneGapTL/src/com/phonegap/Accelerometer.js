@@ -1,3 +1,13 @@
+/*******************************************************************************
+ * Copyright (c) 2012 eBay Inc. and others.
+ * All rights reserved. This program and the accompanying materials
+ * are made available under the terms of the Eclipse Public License v1.0
+ * which accompanies this distribution, and is available at
+ * http://www.eclipse.org/legal/epl-v10.html
+ *
+ * Contributors:
+ *     eBay Inc. - initial API and implementation
+ *******************************************************************************/
 /**
  * Captures device motion in the x, y, and z direction.
  * http://docs.phonegap.com/phonegap_accelerometer_accelerometer.md.html#Acceleration
